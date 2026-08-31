@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+@keyframes pulse-led {
+  0%,
+  100% {
+    opacity: 1;
+    box-shadow:
+      0 0 6px 2px #00f5ff,
+      0 0 12px 4px rgba(0, 245, 255, 0.4);
+  }
+  50% {
+    opacity: 0.6;
+    box-shadow:
+      0 0 3px 1px #00f5ff,
+      0 0 6px 2px rgba(0, 245, 255, 0.2);
+  }
+}
+
+.pulseLed {
+  animation: pulse-led 2s ease-in-out infinite;
+}
+
+.pressStart {
+  font-family: 'Press Start 2P', monospace;
+}
