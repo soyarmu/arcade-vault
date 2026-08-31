@@ -5,13 +5,13 @@
       "source": "Klerith/fernando-skills",
       "sourceType": "github",
       "skillPath": "skills/engineering/spec/SKILL.md",
-      "computedHash": "02c3e88f915d4d5da4440c6c558babe224f2d1cb8580385e729b05a4823f37a7"
+      "computedHash": "81cfa08325e8104fbf5868ec47e3f3d8aec5f18927f58178fbceeecdc0036e55"
     },
     "spec-impl": {
       "source": "Klerith/fernando-skills",
       "sourceType": "github",
       "skillPath": "skills/engineering/spec-impl/SKILL.md",
-      "computedHash": "34ac7a4e2bdb9f253d269924a10c5887bac38d35f9a85e896347930ff21756ac"
+      "computedHash": "18493640ac83a2f3baab75366eba5eab6acabdd893cc63e533a10629e4844ed9"
     }
   }
 }
